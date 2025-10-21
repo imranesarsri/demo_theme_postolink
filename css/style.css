@@ -163,6 +163,10 @@ nav ul li a {
     color: #fff;
 }
 
+.larg {
+    padding: 15px 30px;
+}
+
 .btn-demo {
     background-image: linear-gradient(to right, #25a2b8, #00c2d7);
     color: #fff;
@@ -548,4 +552,12 @@ section.workflow-integration-new {
     width: 90%;
     margin: 0 auto;
     max-width: 1200px;
+}
+
+
+.text-primary-color {
+    color: #6C63FF;
+}
+.n8n_color {
+    color: #EA4B71;
 }
