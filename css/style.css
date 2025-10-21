@@ -358,9 +358,10 @@ section.workflow-integration-new {
 }
 
 .workflow-integration-new .container {
-    display: flex;
-    align-items: center;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
     gap: 60px;
+    align-items: center;
     background-color: #fff;
     padding: 60px;
     border-radius: 16px;
